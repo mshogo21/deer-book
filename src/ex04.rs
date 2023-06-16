@@ -2,7 +2,16 @@ use proconio::input;
 
 fn main(){
     input!{
-        a: i32,
+        k: usize,
+        a: usize,
+        b: usize
     }
-    println!("{}",a);
+    
+    for i in a..=b {
+        if i % k == 0 {
+            println!("OK");
+            return;
+        }
+    }
+    println!("NG");
 }
