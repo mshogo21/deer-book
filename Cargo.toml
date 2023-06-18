@@ -9,5 +9,9 @@ edition = "2021"
 name = "ex04"
 path = "src/ex04.rs"
 
+[[bin]]
+name = "ex05"
+path = "src/ex05.rs"
+
 [dependencies]
 proconio = "0.4.3"
