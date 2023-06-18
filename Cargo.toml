@@ -13,5 +13,13 @@ path = "src/ex04.rs"
 name = "ex05"
 path = "src/ex05.rs"
 
+[[bin]]
+name = "ABC162B-FizzBuzz"
+path = "src/ABC162B-FizzBuzz.rs"
+
+[[bin]]
+name = "ex06"
+path = "src/ex06.rs"
+
 [dependencies]
 proconio = "0.4.3"
