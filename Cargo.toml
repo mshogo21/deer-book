@@ -14,8 +14,16 @@ name = "ex05"
 path = "src/ex05.rs"
 
 [[bin]]
-name = "ABC162B-FizzBuzz"
-path = "src/ABC162B-FizzBuzz.rs"
+name = "abc162_b_fizz_buzz"
+path = "src/abc162_b_fizz_buzz.rs"
+
+[[bin]]
+name = "abc206_b_savings"
+path = "src/abc206_b_savings.rs"
+
+[[bin]]
+name = "abc165_b_b-1"
+path = "src/abc165_b_b-1.rs"
 
 [[bin]]
 name = "ex06"
