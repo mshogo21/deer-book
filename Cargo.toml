@@ -14,16 +14,20 @@ name = "ex05"
 path = "src/ex05.rs"
 
 [[bin]]
-name = "abc162_b_fizz_buzz"
-path = "src/abc162_b_fizz_buzz.rs"
+name = "abc162_b"
+path = "src/abc162_b.rs"
 
 [[bin]]
-name = "abc206_b_savings"
-path = "src/abc206_b_savings.rs"
+name = "abc206_b"
+path = "src/abc206_b.rs"
 
 [[bin]]
-name = "abc165_b_b-1"
-path = "src/abc165_b_b-1.rs"
+name = "abc165_b"
+path = "src/abc165_b.rs"
+
+[[bin]]
+name = "abc200_b"
+path = "src/abc200_b.rs"
 
 [[bin]]
 name = "ex06"
