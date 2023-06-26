@@ -1,3 +1,4 @@
+//https://atcoder.jp/contests/abc165/tasks/abc165_b
 use proconio::input;
 
 fn main() {
@@ -15,4 +16,4 @@ fn main() {
 
     println!("{}",ans);
 }
-//https://atcoder.jp/contests/abc165/tasks/abc165_b
+
